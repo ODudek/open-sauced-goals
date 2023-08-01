@@ -1,25 +1,25 @@
 [
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 11270,
-    "open_issues_count": 80,
-    "forks_count": 285
+    "stargazers_count": 11633,
+    "open_issues_count": 76,
+    "forks_count": 292
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 18988,
-    "open_issues_count": 307,
-    "forks_count": 1435
+    "stargazers_count": 19042,
+    "open_issues_count": 311,
+    "forks_count": 1442
   },
   {
     "full_name": "awslabs/kinesis-hot-shard-advisor",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2787,
+    "stargazers_count": 2791,
     "open_issues_count": 16,
     "forks_count": 173
   },
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "buraksezer/olric",
-    "stargazers_count": 2790,
+    "stargazers_count": 2797,
     "open_issues_count": 24,
     "forks_count": 101
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 40384,
-    "open_issues_count": 157,
-    "forks_count": 1032
+    "stargazers_count": 40801,
+    "open_issues_count": 156,
+    "forks_count": 1037
   },
   {
     "full_name": "buraksezer/consistent",
-    "stargazers_count": 604,
+    "stargazers_count": 605,
     "open_issues_count": 7,
     "forks_count": 65
   },
@@ -55,128 +55,128 @@
   },
   {
     "full_name": "awslabs/eks-node-viewer",
-    "stargazers_count": 721,
-    "open_issues_count": 8,
+    "stargazers_count": 722,
+    "open_issues_count": 3,
     "forks_count": 62
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 14049,
+    "stargazers_count": 14064,
     "open_issues_count": 26,
-    "forks_count": 1608
+    "forks_count": 1609
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 3970,
-    "open_issues_count": 149,
-    "forks_count": 434
+    "stargazers_count": 3984,
+    "open_issues_count": 148,
+    "forks_count": 437
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 37863,
+    "stargazers_count": 37926,
     "open_issues_count": 132,
-    "forks_count": 1390
+    "forks_count": 1397
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 36075,
-    "open_issues_count": 930,
-    "forks_count": 3121
+    "stargazers_count": 36240,
+    "open_issues_count": 911,
+    "forks_count": 3137
   },
   {
     "full_name": "go-python/gopy",
-    "stargazers_count": 1681,
+    "stargazers_count": 1683,
     "open_issues_count": 48,
     "forks_count": 109
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 32702,
+    "stargazers_count": 32739,
     "open_issues_count": 221,
-    "forks_count": 2714
+    "forks_count": 2719
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 34770,
-    "open_issues_count": 319,
+    "stargazers_count": 34782,
+    "open_issues_count": 320,
     "forks_count": 2326
   },
   {
     "full_name": "alex/what-happens-when",
-    "stargazers_count": 36965,
+    "stargazers_count": 36993,
     "open_issues_count": 878,
-    "forks_count": 3710
+    "forks_count": 3712
   },
   {
     "full_name": "knadh/listmonk",
-    "stargazers_count": 10944,
-    "open_issues_count": 62,
-    "forks_count": 953
+    "stargazers_count": 11022,
+    "open_issues_count": 63,
+    "forks_count": 957
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 11621,
-    "open_issues_count": 165,
-    "forks_count": 730
+    "stargazers_count": 11746,
+    "open_issues_count": 167,
+    "forks_count": 738
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 113079,
-    "open_issues_count": 8548,
-    "forks_count": 16884
+    "stargazers_count": 113175,
+    "open_issues_count": 8553,
+    "forks_count": 16910
   },
   {
     "full_name": "maxfischer2781/asyncstdlib",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 4,
     "forks_count": 18
   },
   {
     "full_name": "fawazahmed0/currency-api",
-    "stargazers_count": 1258,
+    "stargazers_count": 1260,
     "open_issues_count": 25,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "picocss/pico",
-    "stargazers_count": 9759,
-    "open_issues_count": 68,
-    "forks_count": 305
+    "stargazers_count": 9793,
+    "open_issues_count": 69,
+    "forks_count": 306
   },
   {
     "full_name": "fluent/fluent-bit",
-    "stargazers_count": 4725,
-    "open_issues_count": 571,
+    "stargazers_count": 4731,
+    "open_issues_count": 569,
     "forks_count": 1324
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 9467,
-    "open_issues_count": 151,
+    "stargazers_count": 9476,
+    "open_issues_count": 150,
     "forks_count": 400
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 27486,
-    "open_issues_count": 52,
-    "forks_count": 1365
+    "stargazers_count": 27565,
+    "open_issues_count": 53,
+    "forks_count": 1369
   },
   {
     "full_name": "zincsearch/zincsearch",
-    "stargazers_count": 15225,
+    "stargazers_count": 15235,
     "open_issues_count": 18,
-    "forks_count": 660
+    "forks_count": 659
   },
   {
     "full_name": "gorse-io/gorse",
-    "stargazers_count": 7496,
-    "open_issues_count": 46,
+    "stargazers_count": 7501,
+    "open_issues_count": 49,
     "forks_count": 661
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 35718,
-    "open_issues_count": 307,
-    "forks_count": 1035
+    "stargazers_count": 35740,
+    "open_issues_count": 308,
+    "forks_count": 1036
   }
 ]
