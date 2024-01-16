@@ -1,14 +1,14 @@
 [
   {
     "full_name": "sirupsen/logrus",
-    "stargazers_count": 23676,
+    "stargazers_count": 23691,
     "open_issues_count": 71,
-    "forks_count": 2328
+    "forks_count": 2329
   },
   {
     "full_name": "mljar/mercury",
-    "stargazers_count": 3659,
-    "open_issues_count": 59,
+    "stargazers_count": 3665,
+    "open_issues_count": 61,
     "forks_count": 234
   },
   {
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "PWhiddy/PokemonRedExperiments",
-    "stargazers_count": 5924,
+    "stargazers_count": 5946,
     "open_issues_count": 56,
-    "forks_count": 491
+    "forks_count": 496
   },
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 7960,
+    "stargazers_count": 7985,
     "open_issues_count": 16,
-    "forks_count": 314
+    "forks_count": 315
   },
   {
     "full_name": "allegro/bigcache",
-    "stargazers_count": 6988,
+    "stargazers_count": 6996,
     "open_issues_count": 89,
-    "forks_count": 612
+    "forks_count": 613
   },
   {
     "full_name": "jmorganca/ollama",
-    "stargazers_count": 30699,
-    "open_issues_count": 461,
-    "forks_count": 2025
+    "stargazers_count": 31325,
+    "open_issues_count": 496,
+    "forks_count": 2083
   },
   {
     "full_name": "clickvote/website",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "faabiosr/cachego",
-    "stargazers_count": 337,
+    "stargazers_count": 338,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 14154,
-    "open_issues_count": 75,
-    "forks_count": 399
+    "stargazers_count": 14200,
+    "open_issues_count": 76,
+    "forks_count": 398
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 21211,
-    "open_issues_count": 410,
-    "forks_count": 1897
+    "stargazers_count": 21256,
+    "open_issues_count": 418,
+    "forks_count": 1903
   },
   {
     "full_name": "awslabs/kinesis-hot-shard-advisor",
@@ -85,98 +85,98 @@
   },
   {
     "full_name": "pawelgaczynski/gain",
-    "stargazers_count": 467,
+    "stargazers_count": 468,
     "open_issues_count": 14,
     "forks_count": 18
   },
   {
     "full_name": "buraksezer/olric",
-    "stargazers_count": 2873,
+    "stargazers_count": 2874,
     "open_issues_count": 23,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 46579,
+    "stargazers_count": 46646,
     "open_issues_count": 198,
-    "forks_count": 1166
+    "forks_count": 1170
   },
   {
     "full_name": "buraksezer/consistent",
-    "stargazers_count": 633,
+    "stargazers_count": 634,
     "open_issues_count": 6,
     "forks_count": 67
   },
   {
     "full_name": "unit-io/unitdb",
-    "stargazers_count": 115,
+    "stargazers_count": 114,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "awslabs/eks-node-viewer",
-    "stargazers_count": 891,
+    "stargazers_count": 895,
     "open_issues_count": 15,
     "forks_count": 72
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 14859,
+    "stargazers_count": 14875,
     "open_issues_count": 31,
     "forks_count": 1708
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 4431,
-    "open_issues_count": 148,
-    "forks_count": 486
+    "stargazers_count": 4437,
+    "open_issues_count": 151,
+    "forks_count": 485
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 40855,
-    "open_issues_count": 150,
-    "forks_count": 1550
+    "stargazers_count": 41174,
+    "open_issues_count": 149,
+    "forks_count": 1562
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 44145,
-    "open_issues_count": 698,
-    "forks_count": 4000
+    "stargazers_count": 44365,
+    "open_issues_count": 703,
+    "forks_count": 4026
   },
   {
     "full_name": "go-python/gopy",
     "stargazers_count": 1782,
-    "open_issues_count": 48,
+    "open_issues_count": 49,
     "forks_count": 110
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 34784,
-    "open_issues_count": 251,
-    "forks_count": 2835
+    "stargazers_count": 34831,
+    "open_issues_count": 253,
+    "forks_count": 2840
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 35161,
+    "stargazers_count": 35164,
     "open_issues_count": 339,
     "forks_count": 2346
   },
   {
     "full_name": "alex/what-happens-when",
-    "stargazers_count": 37943,
-    "open_issues_count": 1325,
-    "forks_count": 4403
+    "stargazers_count": 37985,
+    "open_issues_count": 1326,
+    "forks_count": 4408
   },
   {
     "full_name": "knadh/listmonk",
-    "stargazers_count": 12435,
-    "open_issues_count": 40,
-    "forks_count": 1092
+    "stargazers_count": 12456,
+    "open_issues_count": 46,
+    "forks_count": 1095
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 19414,
-    "open_issues_count": 276,
-    "forks_count": 1062
+    "stargazers_count": 19506,
+    "open_issues_count": 277,
+    "forks_count": 1070
   }
 ]
