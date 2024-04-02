@@ -7,44 +7,44 @@
   },
   {
     "full_name": "cbh123/stickerbaker",
-    "stargazers_count": 897,
+    "stargazers_count": 906,
     "open_issues_count": 2,
     "forks_count": 103
   },
   {
     "full_name": "Yiling-J/theine-go",
-    "stargazers_count": 216,
+    "stargazers_count": 215,
     "open_issues_count": 5,
     "forks_count": 11
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 39878,
-    "open_issues_count": 341,
-    "forks_count": 4807
+    "stargazers_count": 39953,
+    "open_issues_count": 343,
+    "forks_count": 4829
   },
   {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 5243,
+    "stargazers_count": 5257,
     "open_issues_count": 137,
-    "forks_count": 373
+    "forks_count": 374
   },
   {
     "full_name": "googollee/go-socket.io",
-    "stargazers_count": 5542,
+    "stargazers_count": 5547,
     "open_issues_count": 131,
-    "forks_count": 817
+    "forks_count": 818
   },
   {
     "full_name": "sirupsen/logrus",
-    "stargazers_count": 23940,
+    "stargazers_count": 23955,
     "open_issues_count": 82,
     "forks_count": 2255
   },
   {
     "full_name": "mljar/mercury",
-    "stargazers_count": 3743,
-    "open_issues_count": 65,
+    "stargazers_count": 3745,
+    "open_issues_count": 66,
     "forks_count": 237
   },
   {
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "PWhiddy/PokemonRedExperiments",
-    "stargazers_count": 6418,
+    "stargazers_count": 6421,
     "open_issues_count": 61,
-    "forks_count": 555
+    "forks_count": 556
   },
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 8308,
+    "stargazers_count": 8316,
     "open_issues_count": 11,
     "forks_count": 285
   },
   {
     "full_name": "allegro/bigcache",
-    "stargazers_count": 7153,
+    "stargazers_count": 7159,
     "open_issues_count": 88,
     "forks_count": 577
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 51239,
-    "open_issues_count": 677,
-    "forks_count": 3507
+    "stargazers_count": 52080,
+    "open_issues_count": 699,
+    "forks_count": 3590
   },
   {
     "full_name": "clickvote/website",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "Maggi64/moderndash",
-    "stargazers_count": 276,
+    "stargazers_count": 277,
     "open_issues_count": 11,
     "forks_count": 11
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 14904,
-    "open_issues_count": 63,
+    "stargazers_count": 14936,
+    "open_issues_count": 62,
     "forks_count": 427
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 22384,
+    "stargazers_count": 22538,
     "open_issues_count": 523,
-    "forks_count": 2069
+    "forks_count": 2090
   },
   {
     "full_name": "awslabs/kinesis-hot-shard-advisor",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2871,
+    "stargazers_count": 2872,
     "open_issues_count": 19,
     "forks_count": 168
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "buraksezer/olric",
-    "stargazers_count": 2999,
+    "stargazers_count": 3000,
     "open_issues_count": 25,
     "forks_count": 110
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 49455,
-    "open_issues_count": 205,
-    "forks_count": 1225
+    "stargazers_count": 49538,
+    "open_issues_count": 204,
+    "forks_count": 1228
   },
   {
     "full_name": "buraksezer/consistent",
-    "stargazers_count": 656,
+    "stargazers_count": 657,
     "open_issues_count": 6,
     "forks_count": 69
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "awslabs/eks-node-viewer",
-    "stargazers_count": 960,
-    "open_issues_count": 16,
-    "forks_count": 76
+    "stargazers_count": 963,
+    "open_issues_count": 10,
+    "forks_count": 77
   },
   {
     "full_name": "emirpasic/gods",
-    "stargazers_count": 15294,
+    "stargazers_count": 15308,
     "open_issues_count": 38,
-    "forks_count": 1682
+    "forks_count": 1681
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 4641,
-    "open_issues_count": 150,
+    "stargazers_count": 4668,
+    "open_issues_count": 148,
     "forks_count": 506
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 42615,
+    "stargazers_count": 42782,
     "open_issues_count": 160,
-    "forks_count": 1599
+    "forks_count": 1606
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 48001,
-    "open_issues_count": 677,
-    "forks_count": 4287
+    "stargazers_count": 48165,
+    "open_issues_count": 678,
+    "forks_count": 4306
   }
 ]
