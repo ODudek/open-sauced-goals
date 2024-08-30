@@ -1,39 +1,39 @@
 [
   {
     "full_name": "seiflotfy/cuckoofilter",
-    "stargazers_count": 1105,
+    "stargazers_count": 1106,
     "open_issues_count": 14,
     "forks_count": 107
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 22115,
-    "open_issues_count": 400,
+    "stargazers_count": 22144,
+    "open_issues_count": 401,
     "forks_count": 2235
   },
   {
     "full_name": "ArroyoSystems/arroyo",
-    "stargazers_count": 3575,
-    "open_issues_count": 60,
-    "forks_count": 198
+    "stargazers_count": 3582,
+    "open_issues_count": 63,
+    "forks_count": 200
   },
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 2545,
-    "open_issues_count": 103,
+    "stargazers_count": 2544,
+    "open_issues_count": 106,
     "forks_count": 505
   },
   {
     "full_name": "scylladb/scylladb",
-    "stargazers_count": 13166,
-    "open_issues_count": 3160,
+    "stargazers_count": 13178,
+    "open_issues_count": 3129,
     "forks_count": 1248
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 45530,
-    "open_issues_count": 2845,
-    "forks_count": 2495
+    "stargazers_count": 45861,
+    "open_issues_count": 2829,
+    "forks_count": 2539
   },
   {
     "full_name": "leprosus/golang-log",
@@ -43,45 +43,45 @@
   },
   {
     "full_name": "cbh123/stickerbaker",
-    "stargazers_count": 998,
+    "stargazers_count": 1001,
     "open_issues_count": 2,
     "forks_count": 130
   },
   {
     "full_name": "Yiling-J/theine-go",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 44315,
-    "open_issues_count": 363,
-    "forks_count": 5905
+    "stargazers_count": 44590,
+    "open_issues_count": 372,
+    "forks_count": 5945
   },
   {
     "full_name": "TwiN/gatus",
-    "stargazers_count": 5955,
-    "open_issues_count": 166,
-    "forks_count": 400
+    "stargazers_count": 5966,
+    "open_issues_count": 168,
+    "forks_count": 402
   },
   {
     "full_name": "googollee/go-socket.io",
-    "stargazers_count": 5686,
+    "stargazers_count": 5687,
     "open_issues_count": 137,
-    "forks_count": 831
+    "forks_count": 832
   },
   {
     "full_name": "sirupsen/logrus",
-    "stargazers_count": 24466,
+    "stargazers_count": 24485,
     "open_issues_count": 83,
-    "forks_count": 2262
+    "forks_count": 2260
   },
   {
     "full_name": "mljar/mercury",
-    "stargazers_count": 3903,
+    "stargazers_count": 3906,
     "open_issues_count": 75,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "reugn/async",
@@ -91,51 +91,51 @@
   },
   {
     "full_name": "PWhiddy/PokemonRedExperiments",
-    "stargazers_count": 6801,
+    "stargazers_count": 6802,
     "open_issues_count": 65,
-    "forks_count": 615
+    "forks_count": 616
   },
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 8876,
+    "stargazers_count": 8885,
     "open_issues_count": 16,
     "forks_count": 302
   },
   {
     "full_name": "allegro/bigcache",
-    "stargazers_count": 7433,
+    "stargazers_count": 7436,
     "open_issues_count": 92,
     "forks_count": 593
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 86692,
-    "open_issues_count": 1339,
-    "forks_count": 6720
+    "stargazers_count": 87136,
+    "open_issues_count": 1335,
+    "forks_count": 6761
   },
   {
     "full_name": "faabiosr/cachego",
-    "stargazers_count": 364,
+    "stargazers_count": 365,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "Maggi64/moderndash",
-    "stargazers_count": 304,
+    "stargazers_count": 306,
     "open_issues_count": 13,
     "forks_count": 11
   },
   {
     "full_name": "tremorlabs/tremor",
-    "stargazers_count": 16076,
-    "open_issues_count": 85,
+    "stargazers_count": 16089,
+    "open_issues_count": 68,
     "forks_count": 458
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 24297,
-    "open_issues_count": 327,
-    "forks_count": 2369
+    "stargazers_count": 24345,
+    "open_issues_count": 326,
+    "forks_count": 2379
   },
   {
     "full_name": "awslabs/kinesis-hot-shard-advisor",
@@ -145,31 +145,31 @@
   },
   {
     "full_name": "montanaflynn/stats",
-    "stargazers_count": 2910,
+    "stargazers_count": 2911,
     "open_issues_count": 21,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "pawelgaczynski/gain",
-    "stargazers_count": 500,
+    "stargazers_count": 499,
     "open_issues_count": 15,
     "forks_count": 20
   },
   {
     "full_name": "buraksezer/olric",
-    "stargazers_count": 3064,
-    "open_issues_count": 29,
+    "stargazers_count": 3066,
+    "open_issues_count": 30,
     "forks_count": 114
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 53465,
-    "open_issues_count": 199,
+    "stargazers_count": 53537,
+    "open_issues_count": 198,
     "forks_count": 1335
   },
   {
     "full_name": "buraksezer/consistent",
-    "stargazers_count": 680,
+    "stargazers_count": 681,
     "open_issues_count": 6,
     "forks_count": 69
   },
