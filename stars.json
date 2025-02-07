@@ -1,157 +1,157 @@
 [
   {
     "full_name": "block/goose",
-    "stargazers_count": 5724,
-    "open_issues_count": 142,
-    "forks_count": 365
+    "stargazers_count": 6443,
+    "open_issues_count": 128,
+    "forks_count": 410
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 35737,
-    "open_issues_count": 412,
-    "forks_count": 1816
+    "stargazers_count": 36099,
+    "open_issues_count": 414,
+    "forks_count": 1831
   },
   {
     "full_name": "chaitin/SafeLine",
-    "stargazers_count": 15325,
-    "open_issues_count": 27,
-    "forks_count": 924
+    "stargazers_count": 15358,
+    "open_issues_count": 28,
+    "forks_count": 926
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 16336,
-    "open_issues_count": 89,
-    "forks_count": 752
+    "stargazers_count": 16377,
+    "open_issues_count": 86,
+    "forks_count": 755
   },
   {
     "full_name": "create-go-app/cli",
-    "stargazers_count": 2655,
+    "stargazers_count": 2654,
     "open_issues_count": 6,
     "forks_count": 265
   },
   {
     "full_name": "panjf2000/gnet",
-    "stargazers_count": 9957,
-    "open_issues_count": 3,
-    "forks_count": 1045
+    "stargazers_count": 9962,
+    "open_issues_count": 4,
+    "forks_count": 1046
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 27720,
-    "open_issues_count": 406,
-    "forks_count": 1189
+    "stargazers_count": 27869,
+    "open_issues_count": 388,
+    "forks_count": 1201
   },
   {
     "full_name": "keephq/keep",
-    "stargazers_count": 9193,
-    "open_issues_count": 201,
-    "forks_count": 817
+    "stargazers_count": 9207,
+    "open_issues_count": 204,
+    "forks_count": 818
   },
   {
     "full_name": "fluent/fluentd",
-    "stargazers_count": 13023,
+    "stargazers_count": 13027,
     "open_issues_count": 148,
-    "forks_count": 1352
+    "forks_count": 1353
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 47235,
-    "open_issues_count": 18,
-    "forks_count": 3680
+    "stargazers_count": 47261,
+    "open_issues_count": 19,
+    "forks_count": 3681
   },
   {
     "full_name": "refinedev/refine",
-    "stargazers_count": 29679,
+    "stargazers_count": 29720,
     "open_issues_count": 33,
-    "forks_count": 2329
+    "forks_count": 2336
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 34230,
-    "open_issues_count": 1035,
-    "forks_count": 4406
+    "stargazers_count": 34582,
+    "open_issues_count": 1039,
+    "forks_count": 4431
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 26882,
-    "open_issues_count": 343,
-    "forks_count": 2465
+    "stargazers_count": 27601,
+    "open_issues_count": 354,
+    "forks_count": 2536
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 38543,
-    "open_issues_count": 48,
-    "forks_count": 2737
+    "stargazers_count": 39371,
+    "open_issues_count": 45,
+    "forks_count": 2792
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 28552,
-    "open_issues_count": 345,
-    "forks_count": 1856
+    "stargazers_count": 28628,
+    "open_issues_count": 339,
+    "forks_count": 1857
   },
   {
     "full_name": "tw93/Pake",
-    "stargazers_count": 34639,
+    "stargazers_count": 34700,
     "open_issues_count": 28,
-    "forks_count": 6175
+    "forks_count": 6200
   },
   {
     "full_name": "khoj-ai/khoj",
-    "stargazers_count": 25803,
-    "open_issues_count": 64,
-    "forks_count": 1388
+    "stargazers_count": 25945,
+    "open_issues_count": 65,
+    "forks_count": 1397
   },
   {
     "full_name": "ryohey/signal",
-    "stargazers_count": 1709,
+    "stargazers_count": 1832,
     "open_issues_count": 60,
-    "forks_count": 168
+    "forks_count": 172
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 5301,
-    "open_issues_count": 138,
-    "forks_count": 545
+    "stargazers_count": 5307,
+    "open_issues_count": 145,
+    "forks_count": 550
   },
   {
     "full_name": "testcontainers/testcontainers-go",
-    "stargazers_count": 3818,
-    "open_issues_count": 120,
-    "forks_count": 517
+    "stargazers_count": 3823,
+    "open_issues_count": 121,
+    "forks_count": 518
   },
   {
     "full_name": "influxdata/telegraf",
-    "stargazers_count": 15129,
-    "open_issues_count": 396,
+    "stargazers_count": 15136,
+    "open_issues_count": 383,
     "forks_count": 5619
   },
   {
     "full_name": "samber/lo",
-    "stargazers_count": 18523,
-    "open_issues_count": 197,
-    "forks_count": 844
+    "stargazers_count": 18547,
+    "open_issues_count": 199,
+    "forks_count": 845
   },
   {
     "full_name": "reugn/go-quartz",
-    "stargazers_count": 1823,
+    "stargazers_count": 1826,
     "open_issues_count": 3,
     "forks_count": 87
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 43580,
+    "stargazers_count": 43672,
     "open_issues_count": 9,
-    "forks_count": 6351
+    "forks_count": 6375
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 32133,
-    "open_issues_count": 437,
-    "forks_count": 1890
+    "stargazers_count": 32182,
+    "open_issues_count": 447,
+    "forks_count": 1894
   },
   {
     "full_name": "jinzhu/configor",
-    "stargazers_count": 1762,
+    "stargazers_count": 1763,
     "open_issues_count": 32,
     "forks_count": 204
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 23595,
-    "open_issues_count": 507,
-    "forks_count": 2337
+    "stargazers_count": 23613,
+    "open_issues_count": 516,
+    "forks_count": 2341
   },
   {
     "full_name": "ArroyoSystems/arroyo",
-    "stargazers_count": 3938,
-    "open_issues_count": 61,
+    "stargazers_count": 3948,
+    "open_issues_count": 62,
     "forks_count": 235
   },
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 2641,
-    "open_issues_count": 48,
-    "forks_count": 546
+    "stargazers_count": 2642,
+    "open_issues_count": 49,
+    "forks_count": 547
   }
 ]
