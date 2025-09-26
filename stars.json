@@ -1,21 +1,21 @@
 [
   {
     "full_name": "Eventual-Inc/Daft",
-    "stargazers_count": 4505,
-    "open_issues_count": 368,
-    "forks_count": 309
+    "stargazers_count": 4519,
+    "open_issues_count": 364,
+    "forks_count": 312
   },
   {
     "full_name": "minio/simdjson-go",
-    "stargazers_count": 1959,
+    "stargazers_count": 1962,
     "open_issues_count": 0,
     "forks_count": 101
   },
   {
     "full_name": "heroui-inc/heroui",
-    "stargazers_count": 26735,
-    "open_issues_count": 265,
-    "forks_count": 1937
+    "stargazers_count": 26785,
+    "open_issues_count": 271,
+    "forks_count": 1943
   },
   {
     "full_name": "ODudek/noti-react",
@@ -43,75 +43,75 @@
   },
   {
     "full_name": "hypermodeinc/dgraph",
-    "stargazers_count": 21252,
+    "stargazers_count": 21261,
     "open_issues_count": 42,
-    "forks_count": 1550
+    "forks_count": 1551
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 14021,
+    "stargazers_count": 14046,
     "open_issues_count": 80,
-    "forks_count": 471
+    "forks_count": 473
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 8497,
-    "open_issues_count": 15,
-    "forks_count": 445
+    "stargazers_count": 8514,
+    "open_issues_count": 17,
+    "forks_count": 447
   },
   {
     "full_name": "tursodatabase/turso",
-    "stargazers_count": 13624,
-    "open_issues_count": 324,
-    "forks_count": 548
+    "stargazers_count": 13683,
+    "open_issues_count": 348,
+    "forks_count": 551
   },
   {
     "full_name": "GraphiteEditor/Graphite",
-    "stargazers_count": 21455,
-    "open_issues_count": 368,
-    "forks_count": 900
+    "stargazers_count": 21634,
+    "open_issues_count": 374,
+    "forks_count": 905
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 4685,
-    "open_issues_count": 115,
-    "forks_count": 281
+    "stargazers_count": 4693,
+    "open_issues_count": 116,
+    "forks_count": 282
   },
   {
     "full_name": "AdvancedClimateSystems/gonnx",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 119,
     "forks_count": 7
   },
   {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 8657,
+    "stargazers_count": 8676,
     "open_issues_count": 26,
     "forks_count": 416
   },
   {
     "full_name": "BasedHardware/omi",
-    "stargazers_count": 6968,
-    "open_issues_count": 203,
-    "forks_count": 1005
+    "stargazers_count": 6985,
+    "open_issues_count": 207,
+    "forks_count": 1032
   },
   {
     "full_name": "grafana/mimir",
-    "stargazers_count": 4683,
-    "open_issues_count": 716,
-    "forks_count": 644
+    "stargazers_count": 4689,
+    "open_issues_count": 717,
+    "forks_count": 646
   },
   {
     "full_name": "FreeTubeApp/FreeTube",
-    "stargazers_count": 18882,
+    "stargazers_count": 18928,
     "open_issues_count": 351,
-    "forks_count": 1223
+    "forks_count": 1226
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 41465,
-    "open_issues_count": 633,
-    "forks_count": 1785
+    "stargazers_count": 41508,
+    "open_issues_count": 636,
+    "forks_count": 1788
   },
   {
     "full_name": "rogchap/v8go",
@@ -121,62 +121,62 @@
   },
   {
     "full_name": "henrygd/beszel",
-    "stargazers_count": 15328,
-    "open_issues_count": 268,
-    "forks_count": 470
+    "stargazers_count": 15395,
+    "open_issues_count": 274,
+    "forks_count": 471
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 127244,
-    "open_issues_count": 2065,
-    "forks_count": 10208
+    "stargazers_count": 127904,
+    "open_issues_count": 2081,
+    "forks_count": 10255
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 50371,
-    "open_issues_count": 258,
-    "forks_count": 10180
+    "stargazers_count": 50414,
+    "open_issues_count": 260,
+    "forks_count": 10179
   },
   {
     "full_name": "block/goose",
-    "stargazers_count": 19741,
-    "open_issues_count": 372,
-    "forks_count": 1735
+    "stargazers_count": 19842,
+    "open_issues_count": 422,
+    "forks_count": 1748
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 40326,
-    "open_issues_count": 512,
-    "forks_count": 2198
+    "stargazers_count": 40361,
+    "open_issues_count": 511,
+    "forks_count": 2205
   },
   {
     "full_name": "chaitin/SafeLine",
-    "stargazers_count": 17736,
+    "stargazers_count": 17870,
     "open_issues_count": 35,
-    "forks_count": 1084
+    "forks_count": 1096
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 19695,
-    "open_issues_count": 131,
-    "forks_count": 1047
+    "stargazers_count": 19817,
+    "open_issues_count": 134,
+    "forks_count": 1070
   },
   {
     "full_name": "create-go-app/cli",
-    "stargazers_count": 2723,
+    "stargazers_count": 2722,
     "open_issues_count": 8,
     "forks_count": 267
   },
   {
     "full_name": "panjf2000/gnet",
-    "stargazers_count": 10795,
-    "open_issues_count": 2,
-    "forks_count": 1087
+    "stargazers_count": 10807,
+    "open_issues_count": 1,
+    "forks_count": 1088
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 48179,
-    "open_issues_count": 614,
-    "forks_count": 2085
+    "stargazers_count": 48812,
+    "open_issues_count": 613,
+    "forks_count": 2116
   }
 ]
