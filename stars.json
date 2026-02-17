@@ -7,9 +7,9 @@
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 45838,
-    "open_issues_count": 5456,
-    "forks_count": 8072
+    "stargazers_count": 45917,
+    "open_issues_count": 5438,
+    "forks_count": 8081
   },
   {
     "full_name": "emersion/go-message",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "iordv/Droppy",
-    "stargazers_count": 774,
-    "open_issues_count": 17,
-    "forks_count": 39
+    "stargazers_count": 806,
+    "open_issues_count": 36,
+    "forks_count": 44
   },
   {
     "full_name": "rberg27/doom-coding",
-    "stargazers_count": 1668,
+    "stargazers_count": 1675,
     "open_issues_count": 4,
-    "forks_count": 55
+    "forks_count": 54
   },
   {
     "full_name": "rishijatia/fantasy-pl-mcp",
@@ -37,74 +37,74 @@
   },
   {
     "full_name": "emersion/go-smtp",
-    "stargazers_count": 2000,
+    "stargazers_count": 2001,
     "open_issues_count": 29,
     "forks_count": 257
   },
   {
     "full_name": "ayoubben18/ab-method",
-    "stargazers_count": 139,
+    "stargazers_count": 138,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "Fission-AI/OpenSpec",
-    "stargazers_count": 23835,
-    "open_issues_count": 220,
-    "forks_count": 1582
+    "stargazers_count": 24313,
+    "open_issues_count": 224,
+    "forks_count": 1600
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 8136,
-    "open_issues_count": 192,
-    "forks_count": 1279
+    "stargazers_count": 8160,
+    "open_issues_count": 197,
+    "forks_count": 1288
   },
   {
     "full_name": "davila7/claude-code-templates",
-    "stargazers_count": 20199,
-    "open_issues_count": 88,
-    "forks_count": 1883
+    "stargazers_count": 20568,
+    "open_issues_count": 93,
+    "forks_count": 1924
   },
   {
     "full_name": "go-chi/chi",
-    "stargazers_count": 21566,
-    "open_issues_count": 94,
-    "forks_count": 1073
+    "stargazers_count": 21590,
+    "open_issues_count": 96,
+    "forks_count": 1075
   },
   {
     "full_name": "smallstep/certificates",
-    "stargazers_count": 8126,
-    "open_issues_count": 266,
-    "forks_count": 530
+    "stargazers_count": 8138,
+    "open_issues_count": 269,
+    "forks_count": 529
   },
   {
     "full_name": "czlonkowski/n8n-mcp",
-    "stargazers_count": 13452,
-    "open_issues_count": 89,
-    "forks_count": 2428
+    "stargazers_count": 13545,
+    "open_issues_count": 92,
+    "forks_count": 2443
   },
   {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 14790,
-    "open_issues_count": 98,
-    "forks_count": 1018
+    "stargazers_count": 15175,
+    "open_issues_count": 89,
+    "forks_count": 1044
   },
   {
     "full_name": "Eventual-Inc/Daft",
-    "stargazers_count": 5203,
-    "open_issues_count": 402,
+    "stargazers_count": 5216,
+    "open_issues_count": 389,
     "forks_count": 400
   },
   {
     "full_name": "minio/simdjson-go",
-    "stargazers_count": 2002,
+    "stargazers_count": 2003,
     "open_issues_count": 1,
     "forks_count": 103
   },
   {
     "full_name": "heroui-inc/heroui",
-    "stargazers_count": 28131,
-    "open_issues_count": 297,
+    "stargazers_count": 28156,
+    "open_issues_count": 298,
     "forks_count": 2061
   },
   {
@@ -133,39 +133,39 @@
   },
   {
     "full_name": "dgraph-io/dgraph",
-    "stargazers_count": 21526,
-    "open_issues_count": 51,
-    "forks_count": 1583
+    "stargazers_count": 21532,
+    "open_issues_count": 54,
+    "forks_count": 1584
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 14669,
+    "stargazers_count": 14682,
     "open_issues_count": 109,
-    "forks_count": 513
+    "forks_count": 512
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 9293,
-    "open_issues_count": 24,
-    "forks_count": 532
+    "stargazers_count": 9302,
+    "open_issues_count": 21,
+    "forks_count": 531
   },
   {
     "full_name": "tursodatabase/turso",
-    "stargazers_count": 17322,
-    "open_issues_count": 581,
-    "forks_count": 723
+    "stargazers_count": 17387,
+    "open_issues_count": 617,
+    "forks_count": 732
   },
   {
     "full_name": "GraphiteEditor/Graphite",
-    "stargazers_count": 24118,
-    "open_issues_count": 503,
-    "forks_count": 1075
+    "stargazers_count": 24153,
+    "open_issues_count": 478,
+    "forks_count": 1076
   },
   {
     "full_name": "ankitpokhrel/jira-cli",
-    "stargazers_count": 5119,
-    "open_issues_count": 131,
-    "forks_count": 324
+    "stargazers_count": 5131,
+    "open_issues_count": 132,
+    "forks_count": 325
   },
   {
     "full_name": "AdvancedClimateSystems/gonnx",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bytedance/sonic",
-    "stargazers_count": 9189,
-    "open_issues_count": 30,
+    "stargazers_count": 9197,
+    "open_issues_count": 31,
     "forks_count": 434
   }
 ]
