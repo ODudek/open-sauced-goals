@@ -1,25 +1,25 @@
 [
   {
     "full_name": "go-python/gopy",
-    "stargazers_count": 2302,
+    "stargazers_count": 2301,
     "open_issues_count": 66,
     "forks_count": 132
   },
   {
     "full_name": "zincsearch/zincsearch",
-    "stargazers_count": 17820,
+    "stargazers_count": 17819,
     "open_issues_count": 46,
     "forks_count": 773
   },
   {
     "full_name": "emirpasic/gods",
     "stargazers_count": 17415,
-    "open_issues_count": 69,
-    "forks_count": 1824
+    "open_issues_count": 70,
+    "forks_count": 1826
   },
   {
     "full_name": "opencost/opencost",
-    "stargazers_count": 6503,
+    "stargazers_count": 6517,
     "open_issues_count": 205,
     "forks_count": 786
   },
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 952,
     "open_issues_count": 0,
-    "forks_count": 1162
+    "forks_count": 1165
   }
 ]
