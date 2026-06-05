@@ -1,63 +1,63 @@
 [
   {
     "full_name": "rohitg00/agentmemory",
-    "stargazers_count": 20570,
-    "open_issues_count": 218,
-    "forks_count": 1694
+    "stargazers_count": 21261,
+    "open_issues_count": 231,
+    "forks_count": 1754
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 57580,
-    "open_issues_count": 1038,
-    "forks_count": 3534
+    "stargazers_count": 58962,
+    "open_issues_count": 1097,
+    "forks_count": 3627
   },
   {
     "full_name": "google/magika",
-    "stargazers_count": 17076,
+    "stargazers_count": 17093,
     "open_issues_count": 149,
-    "forks_count": 1051
+    "forks_count": 1055
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 202534,
-    "open_issues_count": 54,
-    "forks_count": 31065
+    "stargazers_count": 207543,
+    "open_issues_count": 81,
+    "forks_count": 31849
   },
   {
     "full_name": "pires/go-proxyproto",
     "stargazers_count": 606,
-    "open_issues_count": 7,
-    "forks_count": 129
+    "open_issues_count": 8,
+    "forks_count": 130
   },
   {
     "full_name": "jaytaylor/html2text",
-    "stargazers_count": 581,
+    "stargazers_count": 582,
     "open_issues_count": 23,
     "forks_count": 147
   },
   {
     "full_name": "pingcap/tidb",
-    "stargazers_count": 40125,
-    "open_issues_count": 6282,
-    "forks_count": 6194
+    "stargazers_count": 40129,
+    "open_issues_count": 6291,
+    "forks_count": 6196
   },
   {
     "full_name": "Jeffallan/claude-skills",
-    "stargazers_count": 9557,
-    "open_issues_count": 32,
-    "forks_count": 812
+    "stargazers_count": 9639,
+    "open_issues_count": 37,
+    "forks_count": 821
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 80131,
-    "open_issues_count": 144,
-    "forks_count": 6899
+    "stargazers_count": 80714,
+    "open_issues_count": 123,
+    "forks_count": 6944
   },
   {
     "full_name": "RushB-fr/freekiosk",
-    "stargazers_count": 395,
-    "open_issues_count": 50,
-    "forks_count": 62
+    "stargazers_count": 400,
+    "open_issues_count": 52,
+    "forks_count": 64
   },
   {
     "full_name": "ODudek/go-kcl",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 47747,
-    "open_issues_count": 6138,
-    "forks_count": 8454
+    "stargazers_count": 47823,
+    "open_issues_count": 6165,
+    "forks_count": 8467
   },
   {
     "full_name": "emersion/go-message",
@@ -91,75 +91,75 @@
   },
   {
     "full_name": "emersion/go-smtp",
-    "stargazers_count": 2021,
+    "stargazers_count": 2022,
     "open_issues_count": 30,
     "forks_count": 258
   },
   {
     "full_name": "ayoubben18/ab-method",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "Fission-AI/OpenSpec",
-    "stargazers_count": 52235,
-    "open_issues_count": 365,
-    "forks_count": 3658
+    "stargazers_count": 52951,
+    "open_issues_count": 378,
+    "forks_count": 3708
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 9175,
-    "open_issues_count": 668,
-    "forks_count": 1553
+    "stargazers_count": 9210,
+    "open_issues_count": 722,
+    "forks_count": 1561
   },
   {
     "full_name": "davila7/claude-code-templates",
-    "stargazers_count": 27716,
-    "open_issues_count": 162,
-    "forks_count": 2862
+    "stargazers_count": 27776,
+    "open_issues_count": 166,
+    "forks_count": 2867
   },
   {
     "full_name": "go-chi/chi",
-    "stargazers_count": 22262,
+    "stargazers_count": 22293,
     "open_issues_count": 108,
-    "forks_count": 1110
+    "forks_count": 1111
   },
   {
     "full_name": "smallstep/certificates",
-    "stargazers_count": 8528,
+    "stargazers_count": 8537,
     "open_issues_count": 277,
-    "forks_count": 550
+    "forks_count": 551
   },
   {
     "full_name": "czlonkowski/n8n-mcp",
-    "stargazers_count": 21456,
-    "open_issues_count": 84,
-    "forks_count": 3470
+    "stargazers_count": 21536,
+    "open_issues_count": 82,
+    "forks_count": 3486
   },
   {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 22957,
+    "stargazers_count": 23156,
     "open_issues_count": 162,
-    "forks_count": 1914
+    "forks_count": 1933
   },
   {
     "full_name": "Eventual-Inc/Daft",
-    "stargazers_count": 5542,
-    "open_issues_count": 316,
-    "forks_count": 480
+    "stargazers_count": 5546,
+    "open_issues_count": 325,
+    "forks_count": 483
   },
   {
     "full_name": "minio/simdjson-go",
-    "stargazers_count": 2024,
+    "stargazers_count": 2026,
     "open_issues_count": 1,
     "forks_count": 110
   },
   {
     "full_name": "heroui-inc/heroui",
-    "stargazers_count": 29463,
-    "open_issues_count": 60,
-    "forks_count": 2153
+    "stargazers_count": 29553,
+    "open_issues_count": 61,
+    "forks_count": 2162
   },
   {
     "full_name": "ODudek/noti-react",
